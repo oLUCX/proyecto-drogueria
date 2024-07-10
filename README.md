@@ -21,6 +21,7 @@ cd drogueria-hofmann-test
 ### 2. Ejecutar Comandos
 ```sh
 composer install
+copy .env.example .env
 php artisan key:generate
 ```
 
