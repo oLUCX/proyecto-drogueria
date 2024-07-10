@@ -21,8 +21,7 @@ cd drogueria-hofmann-test
 ### 2. Ejecutar Comandos
 ```sh
 composer install
-npm install
-npm run dev
+php artisan key:generate
 ```
 
 ### 3. Ejecutar el servidor de desarrollo
